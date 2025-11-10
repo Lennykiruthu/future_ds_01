@@ -1,5 +1,6 @@
 1. **Dashboard Summary**
-	**Executive Dashboard**[https://raw.githubusercontent.com/Lennykiruthu/future_ds_01/refs/heads/main/Executive_Page.PNG](Executive Dashboard Image)
+	**Executive Dashboard**
+	![future_ds_01](Executive_Page.PNG)
 	The Executive Dashboard provides a high-level strategic overview of the platform's performance, designed for C-suite decision-making. Key metrics include:
 	- **Financial Performance**: Fulfilled order revenue of $13.43M against refunds of $157.68K, demonstrating strong revenue retention
 	- **Operational Excellence**: 92.13% on-time delivery rate and minimal 0.61% order cancellation rate showcase operational efficiency
